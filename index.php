@@ -3,6 +3,7 @@ include("controlador/confi.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
+    hola mundo
 
   <head>
 
