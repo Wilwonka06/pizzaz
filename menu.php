@@ -1,4 +1,3 @@
-
 <body>
     <!-- ***** Comienza el encabezado (header) ***** -->
     <header class="header-area header-sticky">
@@ -24,7 +23,7 @@
                                 </a>
                             </li>
                         </ul>
-                        
+
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
